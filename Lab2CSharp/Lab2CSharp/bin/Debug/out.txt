@@ -1,0 +1,11 @@
+Test register
+Trigger type: RS trigger
+Trigger state:
+R input:0
+S input:1
+ Output:1
+Trigger type: JK trigger
+Trigger state:
+J input:1
+K input:0
+ Output:1
